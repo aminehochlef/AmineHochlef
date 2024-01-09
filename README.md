@@ -15,8 +15,6 @@
  🔭 I’m currently working on an **NLP project**
  
  🌱 I’m currently learning **NLP**
- 
-⚡ Fun fact **In 2006, a cat named Stubbs became the honorary mayor of Talkeetna, Alaska, USA**
 
  </div>
  
