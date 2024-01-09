@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm Amine</h1>
+<h1 align="center">Hi I'm Amine Hochlef</h1>
 <h3 align="center">Self-taught Machine Learning Engineer from 🇹🇳</h3>
 
 <div align="center">
