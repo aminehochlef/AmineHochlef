@@ -19,7 +19,7 @@
   </a>
   <a href="/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   </a>
 </div> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=python,java,mysql,git" /><br>
 </div>
 
-<br/>
+<br/> -->
 
 
 
