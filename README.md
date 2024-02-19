@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmineHochlef
-- 👀 I’m interested in `Deep neural networks`
-- 🌱 I’m currently learning NLP
-- 📫 How to reach me: hochamine22@gmail.com
+- 👋 Hey there, I'm @AmineHochlef
+- 👀 Machine Learning Engineer by profession
+- 🗻 Casual explorer of web development as a hobby
+- 📫 You can reach me at `hochamine22@gmail.com`
